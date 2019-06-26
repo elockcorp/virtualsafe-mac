@@ -8,16 +8,34 @@
   <string>English</string>
   <key>CFBundleAllowMixedLocalizations</key>
   <true/>
+  <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX1+4qfj2GoAgJAVxEns3FiDPKmw4cCfVDDPBInDC4e6VOChlhAk/0SDU
+Ec9u00Tr4axZiJNJKFNfdMH5qphmg8ZAl2/9GLw70qpCPzVU1WiHq5nwRb9+7LBb
+0f35CeC1sgv5OTQutbDZ5Xw7ES5SJhWYlB836p0a9i8bJ7cz5idlLLab3zIDcgu3
+T22HATpJzDODAGKretOUbrykxAcMarfUU8qyTO/H0QU=
+  ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
   <key>CFBundleExecutable</key>
-  <string>Cryptomator</string>
+  <string>VirtualSAFE</string>
+  <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX183X2R7JxA2Q6jwC9O/s+joQCUgZh3V8W4D68ES/9q4+zXQGJAB4BEC
+BMPr2rPZWXImkl5nJyrTOPjZEJXi5/cCE/zPTliiqUbvdsEemQE5rMqj00RVF898
+  ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
   <key>CFBundleIconFile</key>
-  <string>Cryptomator.icns</string>
+  <string>VirtualSAFE.icns</string>
+  <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX1+2Ze5tpGprjaa+WPX1t0v3npY5ZCGGC1mshPs/x4+G8l5U+qZLRdqt
+EZ1+EwiScTG07pMGkcPHmiDMFgQoQ5KkgZqMPIZnUkx+Zg3WbfEjiEyZYzLTzcYu
+  ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
   <key>CFBundleIdentifier</key>
-  <string>org.cryptomator</string>
+  <string>cloud.virtualsafe</string>
   <key>CFBundleInfoDictionaryVersion</key>
   <string>6.0</string>
+  <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX1+OSllUsxz5bzLMZLM4zip/3DZgUpz36xqRVORThP2Qz842xDSMJAFg
+Mme7mtOifmKWhOyZKN+wRbt5Q+FyJQ6wwxjFmJkVsHCOr85ogVt/hi799/cG0NRz
+  ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
   <key>CFBundleName</key>
-  <string>Cryptomator</string>
+  <string>VirtualSAFE</string>
   <key>CFBundlePackageType</key>
   <string>APPL</string>
   <key>CFBundleShortVersionString</key>
@@ -28,18 +46,33 @@
   <string>public.app-category.utilities</string>
   <key>CFBundleVersion</key>
   <string>###COMMIT_COUNT###</string>
+  <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX18bzXUB9LjjFmXgjwBSh++xAFtMaF6lwQ4tn2Ng5ma/T8pPH2NMYKy7
+7rMRdkKU2YWdOmIOnsfO5q1yQghfgAIlajyrUEo/kCjs0nToKIsh5lVS5aTl8kfW
+VO9T85D3QUyqyZIUoK4SK6o5nwsxaRN0NBNadO3yKDNH3d+8kDpZ7lGDuWMOD3+l
+  ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
   <key>NSHumanReadableCopyright</key>
-  <string>cryptomator.org</string>
+  <string>e-Lock Corporation</string>
   <key>NSHighResolutionCapable</key>
   <string>true</string>
   <key>NSUbiquitousContainers</key>
   <dict>
-    <key>iCloud.com.setolabs.Cryptomator</key>
+    <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX1+SI77Y+T01LsiyVmW5PLdC5mug4Kn2UqSSQMOJaK+IM6sqWz+8AwaX
+SCIKTRN3qe8h7d/vE/PUvMhvOWFZhaI4Lh2OEmqZEAGyk2btsyKwHQVkN1Xmw8M0
+S4Br9XqaSRP2blS1jKmJMx56s/FYXQqukF3DfhaGE4c=
+    ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
+    <key>iCloud.com.setolabs.VirtualSAFE</key>
     <dict>
       <key>NSUbiquitousContainerIsDocumentScopePublic</key>
       <true/>
+      <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX1/Q2ip8ZaZPX1qSXwbz7+bWaYtMh0nZmcH4IfEGZEXXYHPRFa9gSQfD
+Z44p4Jmjxtf8z1a05CWlksk720flZ93PZcPKdoDVm2Xo/r1nLlGRvpPw5jGaCmeB
+v0wniohRJJTPusn4C0AaBA==
+      ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
       <key>NSUbiquitousContainerName</key>
-      <string>Cryptomator</string>
+      <string>VirtualSAFE</string>
       <key>NSUbiquitousContainerSupportedFolderLevels</key>
       <string>Any</string>
     </dict>
@@ -50,12 +83,27 @@
     <dict>
       <key>LSItemContentTypes</key>
       <array>
-        <string>org.cryptomator.vault-metadata</string>
+        <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX182Her2VFYkC3dr+M1Wk+SYlq6qhCT6vF1pdtwpc6chnkrB07q1NfkR
+gP3b1uUiVvqVEjB4zf43gdjWIzUU2bjtOZwvHjL8pgn0tkeUDlo6esYqi75fmjvN
+UPXf2Uu+JO/mFMadqoaJrUG2d8sUJ7tv3p7E9uyVvHw=
+        ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
+        <string>cloud.virtualsafe.vault-metadata</string>
       </array>
+      <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX1/9b51/iXcMSmopdH+MxDscN6/n4gPHVt/AQ4ApTdHcs6eyzGtdBsmV
+sMEeWxIdlJ8Lb1Zon377Y0zImTSYidrwGJSVNKxlXz7YGp31XP2vqp8OWsNcfVKH
+lc6uK/feW9KaQQUS1pkj9g==
+      ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
       <key>CFBundleTypeIconFile</key>
-      <string>Cryptomator-Vault.icns</string>
+      <string>VirtualSAFE-Vault.icns</string>
+      <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX18G/zMmUrzkztu/yjHKVf/f9HHqcDrHq1UdN5A+JooU9CF2pgpGKItA
+flYcko4Q8xr3xWlDZ3wXni1iUp7rrEzIp4A5fzyxqSo1C1W4Exxo9KSPS2Ei3Gl0
+SOEC2lkCGm4tdUtRnyAuEg==
+      ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
       <key>CFBundleTypeName</key>
-      <string>Cryptomator Vault Metadata</string>
+      <string>VirtualSAFE Vault Metadata</string>
       <key>LSHandlerRank</key>
       <string>Owner</string>
       <key>CFBundleTypeRole</key>
@@ -65,26 +113,51 @@
   <key>UTExportedTypeDeclarations</key>
   <array>
     <dict>
+      <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX1/XczAU01JHQlcmgesUrbqhC81fgmPyGwXOQBNvvl7h2LG0+GM0zdDb
+HZCUTfoZw70YFA8TTa2EkiYnTdtfIUH/qNvUwysEPqWOJl1emh1nOn6KH1uqO8FG
+oR7Ab+YDc+azKI/Af2QsyTpNrCw0gg9MMxhRZMi/CGw=
+      ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
       <key>UTTypeIdentifier</key>
-      <string>org.cryptomator.vault-metadata</string>
+      <string>cloud.virtualsafe.vault-metadata</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.utf8-plain-text</string>
         <string>public.json</string>
       </array>
+      <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX1+XpSd5g0eYn8hZ4OBV0n3VLKJdvHSlleOksCqxE1gVTwLcbUh5hJJv
+s5sqDCso8clKpvrHXPDwFcxvFBDG28IdFOXHvSiARtej3w0fuHWmwW0s+RyK6HJI
+TpIhqLCByCoqVNlKhVyflQ==
+      ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
       <key>UTTypeDescription</key>
-      <string>Cryptomator Vault Metadata</string>
+      <string>VirtualSAFE Vault Metadata</string>
+      <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX18JCZmxs1vgS4f/4dRr3YDB9mLKo7Rh8/76TK8vE89AVXVAp+aKjMcu
+WHJ0BllQxyPoEdqzH4fNZmc9j8sXLZN9nJ2unK88ZoRduSG2xFBc3okRn866doe1
+cLV44Lg6Fgg2l1WEEsrdIw==
+      ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
       <key>UTTypeIconFile</key>
-      <string>Cryptomator-Vault.icns</string>
+      <string>VirtualSAFE-Vault.icns</string>
+      <!-- ###_VIRTUALSAFE_CHANGE_TRACKING_START_###
+U2FsdGVkX1+Acnoh6x1ZBosqtvZhxFee2JUhr6BBllsGeTsr5mBbm7gMOVtsazVt
+QGhUlySCqG0gnLIUEfVxskQgJ1IuNDeXs6Sb0beVbWSPE0GSERdJFy6FZAKMdc3/
+uSZzolxcsFFDwm7b4skfVOaFIO0xN7zjhztIQha+N67t2jImG+SYr5Nq3fns7Kx2
+8Xc8P05sA/l7gWWyHkGhZz3RAXXah5BBmr2JFZE4WgHsfqU5JT3Bv/zZ82DmBeXr
+aF3JmW+ne1nHqRXHcmaKyeeHwppldQCzotmgdBxHu5qEm4PHZ2NZEdnuIBTIab6G
+ksybGxbPBlQBRc90sicdcnFgRuzCDzS5WkSlciePvooOJR/OwdppJ648WFhMoS6H
+7et0ETqKcUvoBM9Mzn4DxS6fq6T86TnbCqqY9UiBbIEwgmyG8Cvla1Ob2/1FMrsg
+8o2LvUZIrlRppGjkxh0WBA==
+      ###_VIRTUALSAFE_CHANGE_TRACKING_END_### -->
       <key>UTTypeTagSpecification</key>
       <dict>
         <key>public.filename-extension</key>
         <array>
-          <string>cryptomator</string>
+          <string>vsafe</string>
         </array>
         <key>public.mime-type</key>
         <array>
-          <string>application/x-vnd.cryptomator-vault-metadata</string>
+          <string>application/x-vnd.virtualsafe-vault-metadata</string>
         </array>
       </dict>
     </dict>
